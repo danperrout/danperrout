@@ -11,7 +11,6 @@ I am an IT Manager | Project Manager | Full Stack Developer <img src="https://me
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Youtube Creation.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-danperrout-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/perrout)
 
 ---
 

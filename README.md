@@ -1,6 +1,3 @@
-<p align="center">
-<a href="https://www.linkedin.com/in/perrout"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=danperrout&style=flat-square&color=blue" alt=""></p>
 
 <h1 align="center">Welcome!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>

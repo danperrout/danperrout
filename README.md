@@ -34,5 +34,3 @@ I am an IT Manager | Project Manager | Full Stack Developer <img src="https://me
 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danperrout&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danperrout&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
